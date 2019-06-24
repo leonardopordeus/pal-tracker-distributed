@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-06-24T01:13:21" hostname="CITSN5344" time="0.091">
+  <properties/>
+  <testcase name="testList" classname="test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest" time="0.079"/>
+  <testcase name="testCreate_WhenFailed" classname="test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest" time="0.01"/>
+  <testcase name="testCreate" classname="test.pivotal.pal.tracker.timesheets.TimeEntryControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
